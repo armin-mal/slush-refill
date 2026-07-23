@@ -8,4 +8,4 @@ if not exist ".venv\Scripts\python.exe" (
 )
 
 .venv\Scripts\python monitor.py
-pause
+exit
